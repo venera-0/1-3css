@@ -1,0 +1,213 @@
+/*style*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+}
+
+body {
+    background: #FFF;
+}
+
+#header {
+    background-color: #ffffff;
+    text-align: center;
+}
+/* Theories  */
+#header h1 {
+    color: #000;
+    font-family: Lato;
+    font-size: 72px;
+    font-style: normal;
+    text-align: center;
+}
+
+/* text after tittle */
+#text-1 {
+    color: #FF8000;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    padding: 24px;
+   
+}
+
+#Big-Bang-theory h3 {
+    color: #D9AE00;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    text-align: left;
+}
+
+/* Theory  */
+#text-2 {
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    color: #6D81B4;
+    font-family: Lato; 
+    font-size: 24px;
+    font-style: normal;
+    text-align: left;
+    max-width: 696px;
+    width: 100%;
+}
+
+#Big-Bang-Illustration{
+    padding: 24px;
+    margin: auto;
+    max-width: 696px;
+    width: 100%;
+}
+
+#black-hole-theory h2 {
+    color: #F44E50;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    padding: 64px;
+}
+
+#text-3 {
+    color: #8B2B2C;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    
+}
+
+#Black-Hole-Illustration {
+    display: block;
+    width: 100%;
+    padding: 64px;
+    align-items: center;
+
+}
+
+#black-hole-theory {
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 3px #3b0202;
+    border-bottom: 3px #FF0000;
+    max-width: 696px;
+    width: 100%;
+  
+}
+
+   #black-hole-theory{
+    background: #FFCEBE;
+    padding: 64px;
+    margin: 25px;
+
+}
+
+#black-hole-theory h2 {
+    color: #ff6b6b;
+}
+
+#string-theory h2 {
+    color: #6a0dad;
+    max-width: 696px;
+    width: 100%;
+
+}
+
+#text-4{
+    color: #616161;
+    text-align: right;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    max-width: 696px;
+    width: 100%;
+}
+#text-4{
+
+    padding: 24px;
+    align-items: center;
+    align-self: stretch;
+    border: 3px solid #FF5DA3;
+    background: #FFC1E3;
+    max-width: 696px;
+    width: 100%;
+   
+}
+
+#h3{
+    color: #414651;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+}
+
+
+#String-Theory h4{
+    color: #4716E4;
+    font-size: 40px;
+    text-align: center;
+   
+}
+
+#string-theory-text-4 {
+    color: #616161;
+    text-align: right;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+}
+
+#string-theory-text-4{
+    border: 3px solid #FF5DA3;
+    background: #FFC1E3;
+    margin: auto;
+}
+
+#string-theory img {
+    max-width: 696px;
+    width: 100%;
+    
+}
+
+h5{
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#point1, #point2, #point3 {
+    overflow: hidden; 
+    margin-bottom: 20px;
+    max-width: 696px; 
+    width: 100%;
+}
+
+
+#bullet1, #bullet2, #bullet3 {
+    float: left;
+    width: 20px; 
+    height: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+
+#text1, #text2, #text3 {
+    overflow: hidden; 
+    font-family: 'Lato', sans-serif; 
+    font-size: 16px;
+    color: #C27512;
+}
+
+
+#Theory-Illustration {
+    display: block;
+    width: 100%;
+    padding: 64px;
+    align-items: center;
+}
